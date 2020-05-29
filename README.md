@@ -1,1 +1,1 @@
-#tea
+This is a sample practice project using css to create a web page. Based on CodeCademy course for learning css.
